@@ -10,7 +10,7 @@
 
 ## * run the commands below:
 ```
-git clone https://github.com/no1se2/no1seSPAM---Spam-your-enemy.git
+git clone https://github.com/no1se2/no1seSPAM---SMS-Bomber-Nuclear-weapon.git
 pip3 install -r requirements.txt
 python3 spam.py
 ```
